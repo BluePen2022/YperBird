@@ -1,10 +1,10 @@
 # YperBird
-Welcome to An Alternate of Uberduck.ai
-
-Link: [https://uberduck.ai](https://uberduck.ai)
+Welcome to YperBird
 
 ## Voices
 Coming Soon...
 
 # About
-YperBird was Inspired of Uberduck.ai
+YperBird was Inspired of Uberduck.ai but It's an Alternate
+
+Link: [https://uberduck.ai](https://uberduck.ai)
