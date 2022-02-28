@@ -1,7 +1,8 @@
 # YperBird
 Welcome to An Alternate of Uberduck.ai
 
-# COMING SOON
+## Voices
+Coming Soon...
 
 # About
 YperBird was Inspired of Uberduck.ai
