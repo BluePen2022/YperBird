@@ -4,7 +4,11 @@
 Welcome to YperBird
 
 ## Voices
-Coming Soon...
+
+|   Name | Date | Created | Quality | Files Created | Link |
+| :------------ | :------------ | :------------ | :------------ | :------------ | :------------ |
+|  PFA  |  ??? | BluePen  | ??%  | ???  | ??? |
+| MDZ  | ???  | BluePen  | ??%  | ???  | ??? |
 
 ## About
 YperBird was Inspired of Uberduck.ai but It's an Alternate
